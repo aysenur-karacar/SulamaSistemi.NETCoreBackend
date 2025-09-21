@@ -1,0 +1,1 @@
+# SulamaSistemi.NETCoreBackend
