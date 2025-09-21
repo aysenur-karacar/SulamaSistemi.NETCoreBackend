@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vgelR5CuJsD2j+x/Ae8sk5uPz14KAgbCebtOmfe3kB0=",
+  "Source": "SulamaSistemiWebApi",
+  "BasePath": "_content/SulamaSistemiWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
